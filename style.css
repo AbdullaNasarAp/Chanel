@@ -1,0 +1,536 @@
+body{
+    margin: 0;
+}
+h1{
+    margin: 0;
+}
+
+.header{
+    width: 100%;
+    height: 10px;
+    background-color: black;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    width: 100%;
+    height: 100px;
+   
+}
+.blank,.logo,.search{
+    height: 50px;
+    flex: 1;
+   
+
+
+}
+.search{
+    margin-top: 40px;
+}
+.logo{
+    
+    
+    flex: 3;
+    padding-left: 350px;
+    margin-top: 10px;
+ 
+   
+   
+    
+    
+    
+}
+.menu{
+    display: flex;
+    background-color: #fff;
+    height: 40px;
+    width: 100%;
+    
+    flex-direction: row;
+}
+.p1,.p2,.p3,.p4,.p5,.p6,.p7,.p8,.p9,.p10{
+    
+    font-size: small;
+    font-family: abchanel-corpo, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 60px;
+    padding-left: 10px;
+    margin-top: 20px;
+    
+    
+}
+
+
+.a1{
+    font-size: small;
+    padding-left: 100px;
+
+
+}
+.a3{
+    width: 150px;
+    height: 50px;
+    margin-left: 70px;
+    cursor: pointer;
+    box-shadow: bisque;
+}
+.a3:hover{
+    background-color: transparent;
+}
+
+.img1{
+    color: #fff;
+    margin-left: 600px;
+    padding-top: 400px;
+    font-family: abchanel-corpo, Arial, Helvetica, sans-serif;
+   
+}
+.img{
+    
+        width: 100%;
+        height: 600px;
+        background-image: url(https://www.chanel.com/us/img/t_one/q_auto:good,fl_lossy,dpr_1.2,f_auto/w_1920/prd-emea/sys-master/content/P1/hd3/hc5/9745174593566-ONE_HPCorpo_D_SlidingHero_2880x1260px-1.jpg);
+        background-size: 100%;
+        
+    
+}
+.imge{
+    width: 100%;
+    height: 600px;
+    background-image: url(https://www.chanel.com/us/img/t_one/q_auto:good,fl_lossy,dpr_1.2,f_auto/w_1920/prd-emea/sys-master/content/P1/h67/h0a/9746877644830-ONE_HP-CORPO_D_MajorPush_2880x1260px.jpg);
+    background-size:100%;
+   
+
+}
+.imge1{
+    color: #fff;
+    margin-left: 600px;
+    padding-top: 400px;
+    font-family: abchanel-corpo, Arial, Helvetica, sans-serif;
+   
+}
+.b1{
+    font-size: small;
+    padding-left: 100px;
+
+
+}
+.b3{
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    margin-left: 70px;
+    box-shadow: bisque;
+}
+.b3:hover{
+    background-color: transparent;
+}
+.image{
+    width: 100%;
+    height: 600px;
+    background-image: url(https://www.chanel.com/us/img/t_one/q_auto:good,fl_lossy,dpr_1.2,f_auto/w_1920/prd-emea/sys-master/content/P1/he0/h7c/9792815366174-Homepage_Corpo_ONE_Desktop_01.jpg);
+    background-size: 100%;
+    
+
+}
+.image1{
+   
+    margin-left: 600px;
+    padding-top: 400px;
+    font-family: abchanel-corpo, Arial, Helvetica, sans-serif;
+    
+    color: #fff;
+        text-shadow: 1px 2px 3px #666666;
+
+   
+}
+.c1{
+    font-size: small;
+    padding-left: 100px;
+    
+
+}
+.c3{
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    margin-left:50px;
+    box-shadow: bisque;
+} 
+.c3:hover{
+    background-color: transparent;
+}
+
+.pic{
+    width: 100%;
+    height: 600px;
+    background-image: url(https://www.chanel.com/us/img/t_one/q_auto:good,fl_lossy,dpr_1.2,f_auto/w_1920/prd-emea/sys-master/content/P1/h01/hec/9760673497118-WW-HpModeONEDesktop.jpg);
+    background-size: 100%;
+   
+
+}
+.pic1{
+   
+    margin-left: 600px;
+    padding-top: 400px;
+    font-family: abchanel-corpo, Arial, Helvetica, sans-serif;
+    
+    color: #fff;
+        text-shadow: 1px 2px 3px #666666;
+
+   
+}
+.pa1{
+    font-size: small;
+    padding-left: 80px;
+
+
+}
+.pa2{
+    font-size:30px;
+    width: 300px;
+
+}
+.pa3{
+    width: 150px;
+    height: 50px;
+    margin-left: 50px;
+    cursor: pointer;
+    box-shadow: bisque;
+}
+.pa3:hover{
+    background-color: transparent;
+}
+
+.pict{
+    width: 100%;
+    height: 600px;
+    background-image: url(https://www.chanel.com/us/img/t_one/q_auto:good,fl_lossy,dpr_1.2,f_auto/w_1920/prd-emea/sys-master/content/P1/hd6/he7/9782389637150-PURIFYING-EGERIE-ONE-HP-DESK-2880x1260.jpg);
+    background-size: 100%;
+   
+
+}
+.pict1{
+   
+    margin-left: 600px;
+    padding-top: 400px;
+    font-family: abchanel-corpo, Arial, Helvetica, sans-serif;
+    
+    color: #fff;
+        text-shadow: 1px 2px 3px #666666;
+
+   
+}
+.pi1{
+    font-size: small;
+    padding-left: 150px;
+
+
+}
+.pi2{
+    font-size:30px;
+    
+
+}
+.pi3{
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    margin-left: 120px;
+    box-shadow: bisque;
+}
+
+.pi3:hover{
+    background-color: transparent;
+}
+.pictu{
+    width: 100%;
+    height: 600px;
+    background-image: url(https://www.chanel.com/us/img/t_one/q_auto:good,fl_lossy,dpr_1.2,f_auto/w_1920/prd-emea/sys-master/content/P1/hf8/hd2/9694573428766-ONE_HPCorpo_D_SlidingHero_2880x1260px.jpg);
+    background-size: 100%;
+    
+
+}
+.pictu1{
+   
+   
+    font-family: abchanel-corpo, Arial, Helvetica, sans-serif;
+    
+    color: #fff;
+        text-shadow: 1px 2px 3px #666666;
+
+   
+}
+.pic1{
+    font-size: small;
+    padding-left: 200px;
+
+
+}
+.pic2{
+    padding-left: 680px;
+    font-size:30px;
+    
+
+}
+.pic4{
+    padding-left: 650px;
+    font-size:30px;
+}
+.pic3{
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    margin-left: 750px;
+    box-shadow: bisque;
+}
+.pic3:hover{
+    background-color: transparent;
+}
+
+.pictur{
+    width: 100%;
+    height: 600px;
+    background-image: url(https://www.chanel.com/us/img/t_one/q_auto:good,fl_lossy,dpr_1.2,f_auto/w_1920/prd-emea/sys-master/content/P1/h8a/ha5/9805156319262-HP_CORPO_ONE_2880x1260_V2.jpg);
+    background-size: 100%;
+
+
+}
+.pictur1{
+   
+   
+    font-family: abchanel-corpo, Arial, Helvetica, sans-serif;
+    
+    color: #fff;
+        text-shadow: 1px 2px 3px #666666;
+
+   
+}
+.pict1{
+    font-size: small;
+    padding-left: 120px;
+
+
+}
+.pict2{
+    padding-left: 750px;
+    font-size:30px;
+    
+
+}
+.pict3{
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    margin-left: 700px;
+    box-shadow: bisque;
+}
+.pict3:hover{
+    background-color: transparent;
+}
+
+
+.m{
+    width: 100%;
+    height: 600px;
+    background-image: url(https://www.chanel.com/us/img/t_one/q_auto:good,fl_lossy,dpr_1.2,f_auto/w_1920/prd-emea/sys-master/content/P1/hae/h78/9796161765406-ONE_HPCorpo_D_Parallax_1920x1080px.jpg);
+    background-size: 100%;
+   
+
+}
+.ma1{
+   
+   
+    font-family: abchanel-corpo, Arial, Helvetica, sans-serif;
+    
+    color: #fff;
+        text-shadow: 1px 2px 3px #666666;
+
+   
+}
+.m1{
+    font-size: small;
+    padding-left: 700px;
+    padding-top: 350px;
+
+
+}
+.m2{
+    padding-left: 600px;
+    font-size:30px;
+    
+
+}
+.m3{
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    margin-left: 650px;
+    box-shadow: bisque;
+}
+.m3:hover{
+    background-color: transparent;
+}
+
+.n{
+    width: 100%;
+    height: 600px;
+    background-image: url(https://www.chanel.com/us/img/t_one/q_auto:good,fl_lossy,dpr_1.2,f_auto/w_1920/prd-emea/sys-master/content/P1/hf9/hd4/9811306512414-Homepage_HauteCouture_ONE_Desktop.jpg);
+    background-size: 100%;
+    
+
+}
+.na1{
+   
+   
+    font-family: abchanel-corpo, Arial, Helvetica, sans-serif;
+    
+    color: #fff;
+        text-shadow: 1px 2px 3px #666666;
+
+   
+}
+.n1{
+    font-size: small;
+    padding-left: 700px;
+    padding-top: 350px;
+
+
+}
+.n2{
+    padding-left: 600px;
+    font-size:30px;
+    
+
+}
+.n3{
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    margin-left: 680px;
+    box-shadow: bisque;
+}
+.n3:hover{
+    background-color: transparent;
+}
+
+.n4{
+    padding-left: 700px;
+
+}
+
+
+.l{
+    width: 100%;
+    height: 600px;
+    background-image: url(https://www.chanel.com/us/img/t_one/q_auto:good,fl_lossy,dpr_1.2,f_auto/w_1920/prd-emea/sys-master/content/hdd/h3f/9295364227102-BA-HP-ONE-DESK-2880x1260-PW.jpg);
+    background-size: 100%;
+    
+
+}
+.la1{
+   
+   
+    font-family: abchanel-corpo, Arial, Helvetica, sans-serif;
+    
+    color: #fff;
+        text-shadow: 1px 2px 3px #666666;
+
+   
+}
+.l1{
+    font-size: small;
+    padding-left: 680px;
+    padding-top: 350px;
+
+
+}
+.l2{
+    padding-left: 600px;
+    font-size:30px;
+    
+
+}
+.l3{
+    width: 150px;
+    height: 50px;
+    margin-left: 650px;
+    box-shadow: bisque;
+    cursor: pointer;
+}
+.l3:hover{
+    background-color: transparent;
+}
+.foot{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.foot1,.foot2,.foot3{
+    flex: 1;
+    
+    font-size: 11px;
+    margin-left: 50px;
+    font-family: abchanel-corpo, Arial, Helvetica, sans-serif;
+}
+.footre{
+    width: 100%;
+    height: 700px;
+    background-color: black;
+    padding-left: 70px;
+    
+
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    
+    font-family: abchanel-corpo, Arial, Helvetica, sans-serif;
+    color: cyan;
+   
+}
+.explore,.online,.boutique,.house{
+    flex: 2;
+    padding-left: -100px;
+   
+}
+.d{
+    padding-left: 500px;
+}
+.i{
+    color: #fff;
+}
+.r{
+    color: #fff;
+}
+.t{
+    color: #fff;
+}
+.c{
+    color: #fff;
+}
+.k{
+    text-decoration: none;
+    color: #666666;
+}
+
+.b{
+    text-decoration: none;
+    color: #666666;
+}
+.h{
+    text-decoration: none;
+    color: #666666;
+}
+.v{
+    text-decoration: none;
+    color: #666666;
+}
+.y{
+    margin-left: 1200px;
+    margin-top: 260px;
+}
